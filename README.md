@@ -52,13 +52,32 @@ $$ SI = \max(0, \min(1, 1 - P - S - T - R)) $$
 - **Token Count (T)**: Penalty for excessive token splits.
 - **Similarity with Baseline (R)**: Penalty based on cosine similarity with a baseline reference.
 
-### Human-Led Temporal Bias Assessment
+Run the following script to calculate semantic integrity scores for all models:
+```sh
+python src/semantic_int.py # Generate results for all models
+```    
 
-Human evaluation is conducted to assess the temporal bias of LLMs, providing a more reliable analysis than automated methods. 
+### Generating Results for Models
+
+To generate results for all models using the `DateLogicQA` dataset, follow these steps:
+
+Run the `gen_results.py` script to generate results for all models:
+
+```sh
+python src/gen_results.py # Generate results for all models
+```
+
+This script processes the `DateLogicQA` dataset and evaluates the performance of various models on temporal reasoning tasks. The results are saved for further analysis.
 
 ### Understanding Temporal Bias
 
 We investigate potential biases in the internal embedding space and softmax computations of LLMs when processing texts with different temporal references. Temporal biases are quantified using cosine similarity and KL divergence.
+
+Run the `embedding_chg.py` script to analyze embedding changes:
+
+```sh
+python src/embedding_chg.py # Analyze embedding changes
+```
 
 ## Usage
 
