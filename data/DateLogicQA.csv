@@ -1,0 +1,415 @@
+Type of Q,Question,Extracted Date,Answer,Time Period,Date Format
+Factual,"Which from the following famous people died 
+on 23041616? Answer only with A,B,C or D: 
+A) Shah Jahan B) Miguel de Cervantes 
+C) Princess Diana D) William Shakespeare",23041616,"William Shakespeare 
+OR
+Miguel de Cervantes",Past,DDMMYYYY
+Factual,"Which from the following famous people died 
+on 04231616? Answer only with A,B,C or D: 
+A) Shah Jahan B) Miguel de Cervantes 
+C) Princess Diana D) William Shakespeare",4231616,"William Shakespeare 
+OR
+Miguel de Cervantes",Past,MMDDYYYY
+Factual,"Which from the following famous people died 
+on 23April1616? Answer only with A,B,C or D: 
+A) Shah Jahan B) Miguel de Cervantes 
+C) Princess Diana D) William Shakespeare",23April1616,"William Shakespeare 
+OR
+Miguel de Cervantes",Past,DDMonYYYY
+Factual,"Which from the following famous people died 
+on 23-04-16? Answer only with A,B,C or D: 
+A) Shah Jahan B) Miguel de Cervantes 
+C) Princess Diana D) William Shakespeare",23-04-16,"William Shakespeare 
+OR
+Miguel de Cervantes",Past,DD-MM-YY
+Factual,"Which from the following famous people died 
+on 1616, April 23? Answer only with A,B,C or D: 
+A) Shah Jahan B) Miguel de Cervantes 
+C) Princess Diana D) William Shakespeare","1616, April 23","William Shakespeare 
+OR
+Miguel de Cervantes",Past,"YYYY, Mon DD"
+Factual,"Which from the following famous people died 
+on 113/1616? Answer only with A,B,C or D: 
+A) Shah Jahan B) Miguel de Cervantes 
+C) Princess Diana D) William Shakespeare",113/1616,"William Shakespeare 
+OR
+Miguel de Cervantes",Past,DD/YYYY (Julian)
+Factual,"Which from the following famous people died 
+on 1616/113? Answer only with A,B,C or D: 
+A) Shah Jahan B) Miguel de Cervantes 
+C) Princess Diana D) William Shakespeare",1616/113,"William Shakespeare 
+OR
+Miguel de Cervantes",Past,YYYY/DD (Julian)
+Factual,Who died on 22041616?,22041616,Miguel de Cervantes,Past,DDMMYYYY
+Factual,Who died on 04221616?,4221616,Miguel de Cervantes,Past,MMDDYYYY
+Factual,Who died on 22April1616?,22April1616,Miguel de Cervantes,Past,DDMonYYYY
+Factual,Who died on 22-04-16?,22-04-16,Miguel de Cervantes,Past,DD-MM-YY
+Factual,"Who died on 1616, April 22?","1616, April 22",Miguel de Cervantes,Past,"YYYY, Mon DD"
+Factual,Who died on 112/1616?,112/1616,Miguel de Cervantes,Past,DD/YYYY (Julian)
+Factual,Who died on 1616/112?,1616/112,Miguel de Cervantes,Past,YYYY/DD (Julian)
+Factual,Who died on 31081997?,31081997,Princess Diana,Past,DDMMYYYY
+Factual,Who died on 08311997?,8311997,Princess Diana,Past,MMDDYYYY
+Factual,Who died on 31August1997?,31August1997,Princess Diana,Past,DDMonYYYY
+Factual,Who died on 31-08-97?,31-08-97,Princess Diana,Past,DD-MM-YY
+Factual,"Who died on 1997, August 31?","1997, August 31",Princess Diana,Past,"YYYY, Mon DD"
+Factual,Who died on 243/1997?,243/1997,Princess Diana,Past,DD/YYYY (Julian)
+Factual,Who died on 1997/243?,1997/243,Princess Diana,Past,YYYY/DD (Julian)
+Factual,Who died on 22011666?,22011666,Shah Jahan,Past,DDMMYYYY
+Factual,Who died on 01221666?,1221666,Shah Jahan,Past,MMDDYYYY
+Factual,Who died on 22January1666?,22January1666,Shah Jahan,Past,DDMonYYYY
+Factual,Who died on 22-01-66?,22-01-66,Shah Jahan,Past,DD-MM-YY
+Factual,"Who died on 1666, January 22?","1666, January 22",Shah Jahan,Past,"YYYY, Mon DD"
+Factual,Who died on 22/1666?,22/1666,Shah Jahan,Past,DD/YYYY (Julian)
+Factual,Who died on 1666/22?,1666/22,Shah Jahan,Past,YYYY/DD (Julian)
+Conceptual,"The first iPhone was released on 29062007. 
+How many years has it been since it's release?",29062007,17 years,Present,DDMMYYYY
+Conceptual,"The first iPhone was released on 06292007. 
+How many years has it been since it's release?",6292007,17 years,Present,MMDDYYYY
+Conceptual,"The first iPhone was released on 29June2007. 
+How many years has it been since it's release?",29June2007,17 years,Present,DDMonYYYY
+Conceptual,"The first iPhone was released on 29-06-07. 
+How many years has it been since it's release?",29-06-07,17 years,Present,DD-MM-YY
+Conceptual,"The first iPhone was released on 2007, June 29. 
+How many years has it been since it's release?","2007, June 29",17 years,Present,"YYYY, Mon DD"
+Conceptual,"The first iPhone was released on 180/2007. 
+How many years has it been since it's release?",180/2007,17 years,Present,DD/YYYY (Julian)
+Conceptual,"The first iPhone was released on 2007/180. 
+How many years has it been since it's release?",2007/180,17 years,Present,YYYY/DD (Julian)
+Conceptual,"The Effiel Tower was completed on 31031889. 
+How many years has it been since its completion?",31031889,135 years,Past,DDMMYYYY
+Conceptual,"The Effiel Tower was completed on 03311889. 
+How many years has it been since its completion?",3311889,135 years,Past,MMDDYYYY
+Conceptual,"The Effiel Tower was completed on 31March1889. 
+How many years has it been since its completion?",31March1889,135 years,Past,DDMonYYYY
+Conceptual,"The Effiel Tower was completed on 31-03-89. 
+How many years has it been since its completion?",31-03-89,135 years,Past,DD-MM-YY
+Conceptual,"The Effiel Tower was completed on 1889, March 31. 
+How many years has it been since its completion?","1889, March 31",135 years,Past,"YYYY, Mon DD"
+Conceptual,"The Effiel Tower was completed on 090/1889. 
+How many years has it been since its completion?",090/1889,135 years,Past,DD/YYYY (Julian)
+Conceptual,"The Effiel Tower was completed on 1889/090. 
+How many years has it been since its completion?",1889/090,135 years,Past,YYYY/DD (Julian)
+Conceptual,"The Effiel Tower was built between 28011887 
+to 31031889. How long did it take to build 
+the Effiel Tower?",[ 28011887 | 31031889 ],"2 years, 2 months, and 
+3 days",Past,DDMMYYYY
+Conceptual,"The Effiel Tower was built between 01281887 
+to 03311889. How long did it take to build 
+the Effiel Tower?",[ 01281887 | 03311889 ],"2 years, 2 months, and 
+3 days",Past,MMDDYYYY
+Conceptual,"The Effiel Tower was built between 28January1887 
+to 31March1889. How long did it take to build 
+the Effiel Tower?",[ 28January1887 | 31March1889 ],"2 years, 2 months, and 
+3 days",Past,DDMonYYYY
+Conceptual,"The Effiel Tower was built between 28-01-87 
+to 31-03-89. How long did it take to build 
+the Effiel Tower?",[ 28-01-87 | 31-03-89 ],"2 years, 2 months, and 
+3 days",Past,DD-MM-YY
+Conceptual,"The Effiel Tower was built between 1887, January 28 
+to 1889, March 31. How long did it take to build 
+the Effiel Tower?","[ 1887, January 28 | 1889, March 31 ]","2 years, 2 months, and 
+3 days",Past,"YYYY, Mon DD"
+Conceptual,"The Effiel Tower was built between 028/1887 
+to 090/1889. How long did it take to build 
+the Effiel Tower?",[ 028/1887 | 090/1889 ],"2 years, 2 months, and 
+3 days",Past,DD/YYYY (Julian)
+Conceptual,"The Effiel Tower was built between 1887/028 
+to 1889/090. How long did it take to build 
+the Effiel Tower?",[ 1887/028 | 1889/090 ],"2 years, 2 months, and 
+3 days",Past,YYYY/DD (Julian)
+Conceptual,"The Effiel Tower started its construction in 
+28011887. How long has it been since then?",28011887,137 years,Past,DDMMYYYY
+Conceptual,"The Effiel Tower started its construction in 
+01281887. How long has it been since then?",1281887,137 years,Past,MMDDYYYY
+Conceptual,"The Effiel Tower started its construction in 
+28January1887. How long has it been since then?",28January1887,137 years,Past,DDMonYYYY
+Conceptual,"The Effiel Tower started its construction in 
+28-01-87. How long has it been since then?",28-01-87,137 years,Past,DD-MM-YY
+Conceptual,"The Effiel Tower started its construction in 
+1887, January 28. How long has it been since then?","1887, January 28",137 years,Past,"YYYY, Mon DD"
+Conceptual,"The Effiel Tower started its construction in 
+028/1887. How long has it been since then?",028/1887,137 years,Past,DD/YYYY (Julian)
+Conceptual,"The Effiel Tower started its construction in 
+1887/028. How long has it been since then?",1887/028,137 years,Past,YYYY/DD (Julian)
+Conceptual,"The Effiel Tower started its construction in 
+28011887. What date will be 50 years from the starting date?",28011887,"January 28, 1937",Past,DDMMYYYY
+Conceptual,"The Effiel Tower started its construction in 
+01281887. What date will be 50 years from the starting date?",1281887,"January 28, 1937",Past,MMDDYYYY
+Conceptual,"The Effiel Tower started its construction in 28January1887. 
+What date will be 50 years from the starting date?",28January1887,"January 28, 1937",Past,DDMonYYYY
+Conceptual,"The Effiel Tower started its construction in 28-01-87. 
+What date will be 50 years from the starting date?",28-01-87,"January 28, 1937",Past,DD-MM-YY
+Conceptual,"The Effiel Tower started its construction in 1887, January 28. 
+What date will be 50 years from the starting date?","1887, January 28","January 28, 1937",Past,"YYYY, Mon DD"
+Conceptual,"The Effiel Tower started its construction in 028/1887. 
+What date will be 50 years from the starting date?",028/1887,"January 28, 1937",Past,DD/YYYY (Julian)
+Conceptual,"The Effiel Tower started its construction in 1887/028. 
+What date will be 50 years from the starting date?",1887/028,"January 28, 1937",Past,YYYY/DD (Julian)
+Conceptual,"The Wright brothers' first flight took place on 17121903. 
+How many years have passed since then?",17121903,121 years,Past,DDMMYYYY
+Conceptual,"The Wright brothers' first flight took place on 12171903. 
+How many years have passed since then?",12171903,121 years,Past,MMDDYYYY
+Conceptual,"The Wright brothers' first flight took place on 17December1903. 
+How many years have passed since then?",17December1903,121 years,Past,DDMonYYYY
+Conceptual,"The Wright brothers' first flight took place on 17-12-03. 
+How many years have passed since then?",17-12-03,121 years,Past,DD-MM-YY
+Conceptual,"The Wright brothers' first flight took place on 1903, December 17. 
+How many years have passed since then?","1903, December 17",121 years,Past,"YYYY, Mon DD"
+Conceptual,"The Wright brothers' first flight took place on 351/1903. 
+How many years have passed since then?",351/1903,121 years,Past,DD/YYYY (Julian)
+Conceptual,"The Wright brothers' first flight took place on 1903/315. 
+How many years have passed since then?",1903/315,121 years,Past,YYYY/DD (Julian)
+Conceptual,"The first flight took place on 17121903. 
+How many years will it be since then on 27122056?",[ 17121903 | 27122056 ],153 years,Past&Present,DDMMYYYY
+Conceptual,"The first flight took place on 12171903. 
+How many years will it be since then on 12272056?",[ 12171903 | 12272056 ],153 years,Past&Present,MMDDYYYY
+Conceptual,"The first flight took place on 17December1903. 
+How many years will it be since then on 27December2056?",[ 17December1903 | 27December2056 ],153 years,Past&Present,DDMonYYYY
+Conceptual,"The first flight took place on 17-12-1903. 
+How many years will it be since then on 27-12-56?",[ 17-12-1903 | 27-12-56 ],153 years,Past&Present,DD-MM-YY
+Conceptual,"The first flight took place on 1903, December 17. 
+How many years will it be since then on 2056, December 27?","[ 1903, December 17 | 2056, December 27 ]",153 years,Past&Present,"YYYY, Mon DD"
+Conceptual,"The first flight took place on 315/1903. 
+How many years will it be since then on 362/2056?",[ 315/1903 | 362/2056 ],153 years,Past&Present,DD/YYYY (Julian)
+Conceptual,"The first flight took place on 315/1903. 
+How many years will it be since then on 2056/362?",[ 315/1903 | 2056/362 ],153 years,Past&Present,YYYY/DD (Julian)
+Conceptual,"If the Wright brothers' first flight on 17121903 
+were to happen 50 years earlier, 
+in what year would it have occurred?",17121903,in year 1853,Past,DDMMYYYY
+Conceptual,"If the Wright brothers' first flight on 12171903 
+were to happen 50 years earlier, 
+in what year would it have occurred?",12171903,in year 1853,Past,MMDDYYYY
+Conceptual,"If the Wright brothers' first flight on 17December1903 
+were to happen 50 years earlier, 
+in what year would it have occurred?",17December1903,in year 1853,Past,DDMonYYYY
+Conceptual,"If the Wright brothers' first flight on 17-12-03 
+were to happen 50 years earlier, 
+in what year would it have occurred?",17-12-03,in year 1853,Past,DD-MM-YY
+Conceptual,"If the Wright brothers' first flight on 1903, December 17 
+were to happen 50 years earlier, 
+in what year would it have occurred?","1903, December 17",in year 1853,Past,"YYYY, Mon DD"
+Conceptual,"If the Wright brothers' first flight on 351/1903 
+were to happen 50 years earlier, 
+in what year would it have occurred?",351/1903,in year 1853,Past,DD/YYYY (Julian)
+Conceptual,"If the Wright brothers' first flight on 1903/351 
+were to happen 50 years earlier, 
+in what year would it have occurred?",1903/351,in year 1853,Past,YYYY/DD (Julian)
+Conceptual,"If the Wright brothers' first flight on 17121903 were to happen 
+50 years after, in what year would it have occurred?",17121903,in year 1953,Past,DDMMYYYY
+Conceptual,"If the Wright brothers' first flight on 12171903 were to happen 
+50 years after, in what year would it have occurred?",12171903,in year 1953,Past,MMDDYYYY
+Conceptual,"If the Wright brothers' first flight on 17December1903 
+were to happen 50 years after, in what year would it have occurred?",17December1903,in year 1953,Past,DDMonYYYY
+Conceptual,"If the Wright brothers' first flight on 17-12-03 were to happen 
+50 years after, in what year would it have occurred?",17-12-03,in year 1953,Past,DD-MM-YY
+Conceptual,"If the Wright brothers' first flight on 1903, December 17 were to happen 
+50 years after, in what year would it have occurred?","1903, December 17",in year 1953,Past,"YYYY, Mon DD"
+Conceptual,"If the Wright brothers' first flight on 351/1903 were to happen 
+50 years after, in what year would it have occurred?",351/1903,in year 1953,Past,DD/YYYY (Julian)
+Conceptual,"If the Wright brothers' first flight on 1903/351 were to happen 
+50 years after, in what year would it have occurred?",1903/351,in year 1953,Past,YYYY/DD (Julian)
+Conceptual,"World War II ended on 02091945. 
+How many years has it been since the war ended?",2091945,79 years,Past&Present,DDMMYYYY
+Conceptual,"World War II ended on 09021945. 
+How many years has it been since the war ended?",9021945,79 years,Past&Present,MMDDYYYY
+Conceptual,"World War II ended on 02September1945. 
+How many years has it been since the war ended?",02September1945,79 years,Past&Present,DDMonYYYY
+Conceptual,"World War II ended on 02-09-45. 
+How many years has it been since the war ended?",02-09-45,79 years,Past&Present,DD-MM-YY
+Conceptual,"World War II ended on 1945, September 02. 
+How many years has it been since the war ended?","1945, September 02",79 years,Past&Present,"YYYY, Mon DD"
+Conceptual,"World War II ended on 245/1945. 
+How many years has it been since the war ended?",245/1945,79 years,Past&Present,DD/YYYY (Julian)
+Conceptual,"World War II ended on 1945/245. 
+How many years has it been since the war ended?",1945/245,79 years,Past&Present,YYYY/DD (Julian)
+Conceptual,"World War II lasted from 01091939 to 02091945. 
+How long did the war last?",[ 01091939 | 02091945 ],6 years and 1 day,Past,DDMMYYYY
+Conceptual,"World War II lasted from 09011939 to 09021945. 
+How long did the war last?",[ 09011939 | 09021945 ],6 years and 1 day,Past,MMDDYYYY
+Conceptual,"World War II lasted from 01September1939 to 02September1945. 
+How long did the war last?",[ 01September1939 | 02September1945 ],6 years and 1 day,Past,DDMonYYYY
+Conceptual,"World War II lasted from 01-09-39 to 02-09-45. 
+How long did the war last?",[ 01-09-39 | 02-09-45 ],6 years and 1 day,Past,DD-MM-YY
+Conceptual,"World War II lasted from 1939, September 01 to 1945, September 02. 
+How long did the war last?","[ 1939, September 01 | 1945, September 02 ]",6 years and 1 day,Past,"YYYY, Mon DD"
+Conceptual,"World War II lasted from 244/1939 to 245/1945. 
+How long did the war last?",[ 244/1939 | 245/1945 ],6 years and 1 day,Past,DD/YYYY (Julian)
+Conceptual,"World War II lasted from 1939/244 to 1945/245. 
+How long did the war last?",[ 1939/244 | 1945/245 ],6 years and 1 day,Past,YYYY/DD (Julian)
+Conceptual,"World War II began on 01091939. 
+How long has it been since the war began?",1091939,85 years,Past&Present,DDMMYYYY
+Conceptual,"World War II began on 09011939. 
+How long has it been since the war began?",9011939,85 years,Past&Present,MMDDYYYY
+Conceptual,"World War II began on 01September1939. 
+How long has it been since the war began?",01September1939,85 years,Past&Present,DDMonYYYY
+Conceptual,"World War II began on 01-09-39. 
+How long has it been since the war began?",01-09-39,85 years,Past&Present,DD-MM-YY
+Conceptual,"World War II began on 1939, September 01. 
+How long has it been since the war began?","1939, September 01",85 years,Past&Present,"YYYY, Mon DD"
+Conceptual,"World War II began on 244/1939. 
+How long has it been since the war began?",244/1939,85 years,Past&Present,DD/YYYY (Julian)
+Conceptual,"World War II began on 1939/244. 
+How long has it been since the war began?",1939/244,85 years,Past&Present,YYYY/DD (Julian)
+Conceptual,"World War II started on 01091939.  What year will it be 200 years 
+from the start of the war?",1091939,in year 2139 ,Past&Future,DDMMYYYY
+Conceptual,"World War II started on 09011939.  What year will it be 200 years 
+from the start of the war?",9011939,in year 2139 ,Past&Future,MMDDYYYY
+Conceptual,"World War II started on 01September1939. What year will it be 200 years 
+from the start of the war?",01September1939,in year 2139 ,Past&Future,DDMonYYYY
+Conceptual,"World War II started on 01-09-39.  What year will it be 200 years 
+from the start of the war?",01-09-39,in year 2139 ,Past&Future,DD-MM-YY
+Conceptual,"World War II started on 1939, September 01.  
+What year will it be 200 years from the start of the war?","1939, September 01",in year 2139 ,Past&Future,"YYYY, Mon DD"
+Conceptual,"World War II started on 244/1939. What year will it be 200 years 
+from the start of the war?",244/1939,in year 2139 ,Past&Future,DD/YYYY (Julian)
+Conceptual,"World War II started on 1939/244.  What year will it be 200 years 
+from the start of the war?",1939/244,in year 2139 ,Past&Future,YYYY/DD (Julian)
+Conceptual,"World War II ended on 02091945. What year will it be 200 years from the 
+end of the war?",2091945,in year 2145,Past&Future,DDMMYYYY
+Conceptual,"World War II ended on 09021945. What year will it be 200 years from the 
+end of the war?",9021945,in year 2145,Past&Future,MMDDYYYY
+Conceptual,"World War II ended on 02September1945. 
+What year will it be 200 years from the end of the war?",02September1945,in year 2145,Past&Future,DDMonYYYY
+Conceptual,"World War II ended on 02-09-45. What year will it be 200 years from the 
+end of the war?",02-09-45,in year 2145,Past&Future,DD-MM-YY
+Conceptual,"World War II ended on 1945, September 02. 
+What year will it be 200 years from the end of the war?","1945, September 02",in year 2145,Past&Future,"YYYY, Mon DD"
+Conceptual,"World War II ended on 245/1945. What year will it be 200 years from the 
+end of the war?",245/1945,in year 2145,Past&Future,DD/YYYY (Julian)
+Conceptual,"World War II ended on 1945/245. What year will it be 200 years from the 
+end of the war?",1945/245,in year 2145,Past&Future,YYYY/DD (Julian)
+Factual,Who won the FIFA world cup on 18122022?,18122022,Argentina,Present,DDMMYYYY
+Factual,Who won the FIFA world cup on 12182022?,12182022,Argentina,Present,MMDDYYYY
+Factual,Who won the FIFA world cup on 18December2022?,18December2022,Argentina,Present,DDMonYYYY
+Factual,Who won the FIFA world cup on 18-12-22?,18-12-22,Argentina,Present,DD-MM-YY
+Factual,"Who won the FIFA world cup on 2022, December 18?","2022, December 18",Argentina,Present,"YYYY, Mon DD"
+Factual,Who won the FIFA world cup on 352/2022?,352/2022,Argentina,Present,DD/YYYY (Julian)
+Factual,Who won the FIFA world cup on 2022/352?,2022/352,Argentina,Present,YYYY/DD (Julian)
+Common Sense,"A new electric car model is set to be released on 
+30092040. Pre-orders open 6 months earlier. On what 
+date can customers start preordering?",30092040,"on March 30, 2040",Future,DDMMYYYY
+Common Sense,"A new electric car model is set to be released on 
+09302040. Pre-orders open 6 months earlier. On what 
+date can customers start preordering?",9302040,"on March 30, 2040",Future,MMDDYYYY
+Common Sense,"A new electric car model is set to be released on 
+30September2040. Pre-orders open 6 months earlier. On what 
+date can customers start preordering?",30September2040,"on March 30, 2040",Future,DDMonYYYY
+Common Sense,"A new electric car model is set to be released on 
+30-09-40. Pre-orders open 6 months earlier. On what 
+date can customers start preordering?",30-09-40,"on March 30, 2040",Future,DD-MM-YY
+Common Sense,"A new electric car model is set to be released on 
+2040, September 30. Pre-orders open 6 months earlier. On 
+what date can customers start preordering?","2040, September 30","on March 30, 2040",Future,"YYYY, Mon DD"
+Common Sense,"A new electric car model is set to be released on 
+273/2040. Pre-orders open 6 months earlier. On what 
+date can customers start preordering?",273/2040,"on March 30, 2040",Future,DD/YYYY (Julian)
+Common Sense,"A new electric car model is set to be released on 
+2040/273. Pre-orders open 6 months earlier. On what 
+date can customers start preordering?",2040/273,"on March 30, 2040",Future,YYYY/DD (Julian)
+Common Sense,"When will a subscription service's next billing cycle take place if a user signs up on 30042024, and the service charges every 31 days?",30042024,"on May 31, 2024",Present,DDMMYYYY
+Common Sense,"When will a subscription service's next billing cycle take place if a user signs up on 04302024, and the service charges every 31 days?",4302024,"on May 31, 2024",Present,MMDDYYYY
+Common Sense,"When will a subscription service's next billing cycle take place if a user signs up on 30April2024, and the service charges every 31 days?",30April2024,"on May 31, 2024",Present,DDMonYYYY
+Common Sense,"When will a subscription service's next billing cycle take place if a user signs up on 30-04-24, and the service charges every 31 days?",30-04-24,"on May 31, 2024",Present,DD-MM-YY
+Common Sense,"When will a subscription service's next billing cycle take place if a user signs up on 2024, April 30, and the service charges every 31 days?","2024, April 30","on May 31, 2024",Present,"YYYY, Mon DD"
+Common Sense,"When will a subscription service's next billing cycle take place if a user signs up on 121/2024, and the service charges every 31 days?",121/2024,"on May 31, 2024",Present,DD/YYYY (Julian)
+Common Sense,"When will a subscription service's next billing cycle take place if a user signs up on 2024/121, and the service charges every 31 days?",2024/121,"on May 31, 2024",Present,YYYY/DD (Julian)
+Common Sense,What will the contract's last day be if an individual is hired on 29022024 with the agreement last for a 10-year term?,29022024,"on Feb 28, 2034",Present,DDMMYYYY
+Common Sense,What will the contract's last day be if an individual is hired on 02292024 with the agreement last for a 10-year term?,2292024,"on Feb 28, 2034",Present,MMDDYYYY
+Common Sense,What will the contract's last day be if an individual is hired on 29Febuary2024 with the agreement last for a 10-year term?,29Febuary2024,"on Feb 28, 2034",Present,DDMonYYYY
+Common Sense,What will the contract's last day be if an individual is hired on 29-02-24 with the agreement last for a 10-year term?,29-02-24,"on Feb 28, 2034",Present,DD-MM-YY
+Common Sense,"What will the contract's last day be if an individual is hired on 2024, February 29 with the agreement last for a 10-year term?","2024, February 29","on Feb 28, 2034",Present,"YYYY, Mon DD"
+Common Sense,What will the contract's last day be if an individual is hired on 060/2024 with the agreement last for a 10-year term?,060/2024,"on Feb 28, 2034",Present,DD/YYYY (Julian)
+Common Sense,What will the contract's last day be if an individual is hired on 2024/060 with the agreement last for a 10-year term?,2024/060,"on Feb 28, 2034",Present,YYYY/DD (Julian)
+Numerical,"Today is 25042024. If 50 days are added, and then 50 days are subtracted,
+ what is the date?",25042024,"April 25th, 2024",Present,DDMMYYYY
+Numerical,"Today is 04252024. If 50 days are added, and then 50 days are subtracted,
+ what is the date?",4252024,"April 25th, 2024",Present,MMDDYYYY
+Numerical,"Today is 25April2024. If 50 days are added, and then 50 days are subtracted,
+ what is the date?",25April2024,"April 25th, 2024",Present,DDMonYYYY
+Numerical,"Today is 25-04-24. If 50 days are added, and then 50 days are subtracted,
+ what is the date?",25-04-24,"April 25th, 2024",Present,DD-MM-YY
+Numerical,"Today is 2024, April 25. If 50 days are added, and then 50 days are 
+subtracted, what is the date?","2024, April 25","April 25th, 2024",Present,"YYYY, Mon DD"
+Numerical,"Today is 115/2024. If 50 days are added, and then 50 days are subtracted,
+ what is the date?",115/2024,"April 25th, 2024",Present,DD/YYYY (Julian)
+Numerical,"Today is 2024/115. If 50 days are added, and then 50 days are subtracted,
+ what is the date?",2024/115,"April 25th, 2024",Present,YYYY/DD (Julian)
+Common Sense,"Alice was born on 10-09-95. She started high school on 01082010. 
+Was Alice older than 14 when she started high school?",[ 10-09-95 | 01082010 ],Yes,Past&Present,"DD-MM-YY,
+DDMMYYYY"
+Common Sense,"Alice was born on 1995, September 10. She started high school on 
+213/2010. Was Alice older than 14 when she started high school?","[ 1995, September 10 | 213/2010 ]",Yes,Past&Present,"YYYY, Mon DD,
+DD/YYYY"
+Common Sense,"Emma was born on 18June1988. She got married on 09122010. 
+Was Emma older than 21 when she got married?",[ 18June1988 | 09122010 ],Yes,Past&Present,"DDMonYYYY, 
+MMDDYYYY"
+Common Sense,"Emma was born on 169/1988. She got married on 2010/255. 
+Was Emma older than 21 when she got married?",[ 169/1988 | 2010/255 ],Yes,Past&Present,"DD/YYYY,
+YYYY/DD"
+Common Sense,"The Eiffel Tower was completed on 31-03-89. Clara was born on 
+25December1900. Was the Eiffel Tower already built when Clara was born?",[ 31-03-89 | 25December1900 ],Yes,Past,"DD-MM-YY, 
+DDMonYYY"
+Common Sense,"The Eiffel Tower was completed on 090/1889. Clara was born on 
+1900/359. Was the Eiffel Tower already built when Clara was born?",[ 090/1889 | 1900/359 ],Yes,Past,"DD/YYYY, 
+YYYY/DD"
+Common Sense,"Anna was born on 01012000. She celebrated her 18th birthday on 
+01-01-18. Did Anna turn 18 before the year 2020?",[ 01012000 | 01-01-18 ],Yes,Present,"MMDDYYYY,
+DD-MM-YY"
+Common Sense,"Anna was born on 2000, January 01. She celebrated her 18th birthday on 
+01012018. Did Anna turn 18 before the year 2020?","[ 2000, January 01 | 01012018]",Yes,Present,"YYYY, Mon DD,
+DDMMYYYY"
+Common Sense,"John was born on 12122000. He got his driver’s license on 2019, January 15. 
+Was John at least 18 when he got his license?","[ 12122000 | 2019, January 15 ]",Yes,Present,"DDMMYYYY,
+YYYY, Mon DD"
+Common Sense,"John was born on 347/2000. He got his driver’s license on 01-15-19. 
+Was John at least 18 when he got his license?",[ 347/2000 | 01-15-19 ],Yes,Present,"DD/YYYY, 
+MM-DD-YY"
+Common Sense,"The Eiffel Tower was completed on 90/1889. Clara was born on 
+25December1900. Considering the Eiffel Tower's completion,
+how many full decades had passed before Clara was born?",[ 90/1889 | 25December1900],1 decade,Past,"DD/YYYY,
+DDMonYYYY"
+Common Sense,"The Eiffel Tower was completed on 31-03-89. Clara was born on 
+12251900. Considering the Eiffel Tower's completion, how 
+many full decades had passed before Clara was born?",[ 31-03-89 | 12251900 ],1 decade,Past,"DD-MM-YY,
+MMDDYYYY"
+Common Sense,"Anna was born on 01-01-00. She celebrated her 18th birthday on 
+01012018. She planned a party on 01December2017 to mark turning 18 early. 
+Was her planned party date before her actual birthday?",[ 01-01-00 | 01012018 | 01December2017],Yes,Present,"DD-MM-YY, 
+MMDDYYYY, 
+DDMonYYYY"
+Common Sense,"Anna was born on 001/2000. She celebrated her 18th birthday on 
+2018, January 1. She planned a party on 01December2017 to mark turning 18 
+early. Was her planned party date before her actual birthday?","[ 001/2000 | 2018, January 1 | 01December2017 ]",Yes,Present,"DD/YYYY, 
+YYYY, Mon DD,
+DDMonYYYY"
+Common Sense,"The Eiffel Tower was completed on 31-03-89. Clara was born on 
+1900, December 25. If a major renovation of the Eiffel Tower occurred on 
+25December1900, was Clara born on the renovation date?","[ 31-03-89 | 1900, December 25 | 25December1900 ]",Yes,Past,"DD-MM-YY,
+YYYY, Month DD,
+DDMonYYYY"
+Common Sense,"The Eiffel Tower was completed on 31-03-89. Clara was born on 
+1900, December 25. If a major renovation of the Eiffel Tower occurred on 
+25December1900, was Clara born on the renovation date?","[ 31-03-89 , 1900 | 1900/359 | 25121900 ]",Yes,Past,"DD-MM-YYYY,
+YYYY/DD,
+DDMMYYYY"
+Numerical,"Today is 15032029. If an event is scheduled 100 years from now, 
+on what date will it occur?",15032029,"on March 15, 2129",Future,DDMMYYYY
+Numerical,"Today is 03152029. If an event is scheduled 100 years from now, 
+on what date will it occur?",3152029,"on March 15, 2129",Future,MMDDYYYY
+Numerical,"Today is 15March2029. If an event is scheduled 100 years from now, 
+on what date will it occur?",15March2029,"on March 15, 2129",Future,DDMonYYYY
+Numerical,"Today is 15-03-29. If an event is scheduled 100 years from now, 
+on what date will it occur?",15-03-29,"on March 15, 2129",Future,DD-MM-YY
+Numerical,"Today is 2029, March 15. If an event is scheduled 100 years from now, 
+on what date will it occur?","2029, March 15","on March 15, 2129",Future,"YYYY, Mon DD"
+Numerical,"Today is 74/2029. If an event is scheduled 100 years from now, 
+on what date will it occur?",74/2029,"on March 15, 2129",Future,DD/YYYY (Julian)
+Numerical,"Today is 2029/74. If an event is scheduled 100 years from now, 
+on what date will it occur?",2029/74,"on March 15, 2129",Future,YYYY/DD (Julian)
+Numerical,What is the time 7 year and 9 month after 27Oct1446,,"Jul 27, 1454",Past,
+Numerical,What is the time 7 year and 9 month after 27/10/1446,,"Jul 27, 1454",Past,
+Numerical,What is the time 7 year and 9 month after 27101446,,"Jul 27, 1454",Past,
+Numerical,What is the time 7 year and 9 month after 10271446,,"Jul 27, 1454",Past,
+Numerical,What is the time 7 year and 9 month after 10/27/1446,,"Jul 27, 1454",Past,
+Numerical,"What is the time 7 year and 9 month after October 27, 1446",,"Jul 27, 1454",Past,
