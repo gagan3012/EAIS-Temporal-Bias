@@ -39,6 +39,8 @@ The `DateLogicQA` dataset is designed to explore how LLMs handle dates in variou
 - **DD/YYYY (Julian calendar)**: 113/1616
 - **YYYY/DD (Julian calendar)**: 1616/113
 
+The `DateLogicQA` dataset is available on Hugging Face and can be accessed [here](https://huggingface.co/datasets/gagan3012/DateLogicQA).
+
 ## Methodology
 
 ### Semantic Integrity
