@@ -80,8 +80,8 @@ To use the code and resources in this repository, follow these steps:
 3. Run the analysis scripts:
 
     ```sh
-    python src/gen_results.py
-    python src/semantic_int.py
-    python src/embedding_chg.py
+    python src/gen_results.py # Generate results for all models
+    python src/semantic_int.py # Calculate semantic integrity scores 
+    python src/embedding_chg.py # Analyze embedding changes
     ```
 
