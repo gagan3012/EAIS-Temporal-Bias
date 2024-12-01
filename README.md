@@ -59,7 +59,7 @@ Run the following script to calculate semantic integrity scores for all models:
 python src/semantic_int.py # Generate results for all models
 ```    
 
-### Generating Results for Models
+### Human-Led Temporal Bias Assessment
 
 To generate results for all models using the `DateLogicQA` dataset, follow these steps:
 
